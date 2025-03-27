@@ -1,0 +1,2 @@
+[DATE: 2025-03-27 16:04:29] - Erreur insertion produits (insertProducts) : Duplicate entry '1' for key 'PRIMARY'
+[DATE: 2025-03-27 16:04:29] - Erreur insertion commandes (insertOrders) : Duplicate entry '3' for key 'PRIMARY'
